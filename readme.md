@@ -8,4 +8,4 @@ If you have trouble with this material, I recommend reviewing Python using the W
 https://www.w3schools.com/python/
 In this format, you can run Python code right in the browser, in-line with the course material.
 
-Going up to/including File Handling covers a lot fo the basics. There are also more advanced and domain specific topics in this material, so don't hesitate to save it as a reference for later!
+Going up to/including File Handling covers a lot of the basics. There are also more advanced and domain specific topics in this material, so don't hesitate to save it as a reference for later!
